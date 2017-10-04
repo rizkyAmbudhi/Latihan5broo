@@ -1,0 +1,10 @@
+ID0001, Rizky Ambudhi Mukti, Male, false, 25, jl. Cilincing 57 Jakut, 9000000.0
+ID0002, Agung Putra, Male, true, 27, jl. Marunda Jakut, 3000000.0
+ID0003, Soraya Syarifah, Female, true, 28, jl. Bintaro jaksel, 6000000.0
+ID0004, Akbar Tanjung, Male, true, 24, jl. cilnicing jaksel, 7000000.0
+ID0005, Rizka Chaerunisa, Female, false, 23, jl. koja jaktim,6500000.0
+ID0006, Dedi Jaya, Male, true, 28, jl. Brebes jaksel, 3400000.0
+ID0007, Zulkarnain, Male, true, 25, jl. Cipinang, 4500000.0
+ID0008, Lulu riya, Female, false, 24, jl. Halim jaktim, 5000000.0
+ID0009, Nuraeni, Female, true, 28, jl. Parmuka Jakpus, 5000000.0
+ID00010, Reggi reidinal , Male, false, 23, jl. Kemayoran, 5000000.0
